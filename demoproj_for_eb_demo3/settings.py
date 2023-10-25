@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['x23113961simpledemo3-env.eba-aq3m5dms.ap-northeast-2.elasticbeanstalk.com']
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
